@@ -1,5 +1,5 @@
 # Hi, I'm Yian Yang
-NTU Mechanical Engineering student interested in robotics systems, embedded control, perception, and quadruped robots.
+NTU Electrical Engineering student interested in robotics systems, embedded control, perception, and quadruped robots.
 
 ## Selected projects
 - doggy_ws — 12-DOF quadruped robot workspace
