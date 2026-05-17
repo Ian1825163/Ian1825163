@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Yian Yang
+NTU Mechanical Engineering student interested in robotics systems, embedded control, perception, and quadruped robots.
 
-<!--
-**Ian1825163/Ian1825163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Selected projects
+- doggy_ws — 12-DOF quadruped robot workspace
+- MakeNTU Hackathon Project — award-winning rapid prototyping project (NXP x Avnet Enterprise Award)
+- Smart-Trash-Tracking-System — embedded perception-and-actuation project combining YOLO vision and motor control
+- Vision-Based-Robotic-Arm-Manipulation — robotics perception project
+- Smart-Trash-Tracking-System — electronics + system integration project
 
-Here are some ideas to get you started:
+## Skills
+C++, Python, ROS2, embedded systems, control, robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+Quadruped robot, robotics software, preparing for robotics master's applications
