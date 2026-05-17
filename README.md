@@ -6,7 +6,7 @@ NTU Electrical Engineering student interested in robotics systems, embedded cont
 - MakeNTU Hackathon Project — award-winning rapid prototyping project (NXP x Avnet Enterprise Award)
 - Smart-Trash-Tracking-System — embedded perception-and-actuation project combining YOLO vision and motor control
 - Vision-Based-Robotic-Arm-Manipulation — robotics perception project
-- Smart-Trash-Tracking-System — electronics + system integration project
+- SmokeLens — embedded monitoring system for smoke sensing, data collection, and real-time interface development
 
 ## Skills
 C++, Python, ROS2, embedded systems, control, robotics
